@@ -34,3 +34,5 @@ docker exec -it kafka kafka-console-producer --broker-list localhost:9092 --topi
 ```sh
 docker exec -it kafka kafka-console-consumer --bootstrap-server localhost:9092 --topic test-topic --from-beginning
 ```
+# Week-1 Challenges :
+None :)
