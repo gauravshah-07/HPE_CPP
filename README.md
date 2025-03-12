@@ -13,3 +13,8 @@ This repository is for code sharing and progress updates related to the HPE Care
 - **Completed:**
   1. Created a Kafka producer-consumer with syslog JSON data on the terminal
   2. Implemented the same Kafka producer-consumer using Python
+## Week 3
+- **Completed:**
+  1.Connected Kafka producer and consumer on different machines using ngrok
+  2.Generated synthetic system logs using Python and sent them over Kafka
+  3.Installed Telegraf
