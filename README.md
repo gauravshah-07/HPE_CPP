@@ -18,3 +18,12 @@ This repository is for code sharing and progress updates related to the HPE Care
   1. Connected Kafka producer and consumer on different machines using ngrok
   2. Generated synthetic system logs using Python and sent them over Kafka
   3. Installed Telegraf
+     
+## Week 4
+- **Completed:**
+  1. Created Python scripts to generate random telemetry data
+  2. Implemented multiple Kafka producers for different telemetry types
+  3. Designed a producer menu system for managing Kafka producers interactively
+  4. Containerized the producer scripts using Docker
+
+
