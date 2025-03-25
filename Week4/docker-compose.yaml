@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  producer:
+    build: .
+    container_name: kafka_producer
+    environment:
+      - KAFKA_BROKER=localhost:9092  # Use the external Kafka broker address
+    volumes:
+      - .:/app
+    stdin_open: true  # Keep container interactive
+    tty: true  # Keep terminal open
+    network_mode: "host"  # Ensures connection to external Kafka
