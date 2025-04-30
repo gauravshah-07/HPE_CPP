@@ -29,3 +29,17 @@ python consumer.py
 ```bash
 docker-compose down
 ```
+
+
+# Steps to use Config_Manager
+
+## Prepare the YAML Configuration: Generate a YAML file from either a Prometheus metrics file or a telemetry JSON file using the CLI:
+
+## From Prometheus format:
+```bash
+python config_manager.py prom2yaml --file <input file path> --topic "<topic>" --output <output.yaml>
+```
+## From JSON format:
+```bash
+python config_manager.py json2yaml <input.json> <output.yaml> <metric_name> <topic_name>
+```
