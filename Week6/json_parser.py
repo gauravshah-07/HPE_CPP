@@ -1,14 +1,15 @@
 import json
 import yaml
+import argparse
 from collections import defaultdict, OrderedDict
-
 
 def represent_ordereddict(dumper, data):
     return dumper.represent_dict(data.items())
 
 yaml.add_representer(OrderedDict, represent_ordereddict)
 
-def convert_to_yaml(data, metric_name="CrayTelemetry.Current", filetype="json", topic="Telemetry Metrics"):
+
+def convert_to_yaml(data, metric_name, topic):
     grouped_data = defaultdict(lambda: defaultdict(list))
     value_key = "Value"
     label_keys = set()
@@ -33,8 +34,8 @@ def convert_to_yaml(data, metric_name="CrayTelemetry.Current", filetype="json", 
         grouped_data[metric_name]["value"].append(entry[value_key])
 
     result = OrderedDict()
-    result["filetype"] = filetype
-    result["topic"] = topic
+    result["FileType"] = 'json'
+    result["Topic"] = topic
     result[metric_name] = OrderedDict()
     result[metric_name]["labels"] = []
 
@@ -51,24 +52,18 @@ def convert_to_yaml(data, metric_name="CrayTelemetry.Current", filetype="json", 
     result[metric_name]["value"] = [f"({min_value}, {max_value})"]
     result[metric_name]["timestamp"] = "<current_timestamp>"
 
-    return yaml.dump(result, default_flow_style=False, sort_keys=False)
+    return result  
 
-def convert_file(input_file, output_file, metric_name, filetype, topic):
+
+
+
+def convert_file(input_file, output_file, metric_name, topic):
     with open(input_file, 'r') as infile:
         data = json.load(infile)
 
-    yaml_output = convert_to_yaml(data, metric_name, filetype, topic)
+    yaml_output = convert_to_yaml(data, metric_name, topic)
+    
+    return yaml_output
 
-    with open(output_file, 'w') as outfile:
-        outfile.write(yaml_output)
 
-    print(f"✅ YAML output has been saved to {output_file}")
 
-# Example usage
-input_file = '/home/shashank/20-04-2025-HPE/Py_Codes/telemetry_current.json'
-output_file = 'output_current.yaml'
-metric_name = 'pdu_input_power'
-filetype = 'prom'
-topic = 'PDU Metrics'
-
-convert_file(input_file, output_file, metric_name, filetype, topic)
