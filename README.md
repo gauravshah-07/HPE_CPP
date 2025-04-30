@@ -26,4 +26,11 @@ This repository is for code sharing and progress updates related to the HPE Care
   3. Designed a producer menu system for managing Kafka producers interactively
   4. Containerized the producer scripts using Docker
 
+## Week 5
+- **Completed:**
+  1. Reading metrics data from Prometheus formatted files and telemetry JSON files, extracting metric names, labels, values, and timestamps.
+  2. Extracted data is converted into a simulator-ready YAML format, where values are represented as ranges and labels are grouped by unique values.
+  3. Configuration Manager implements caching mechanism to avoid regenerating YAML files for already-processed configurations, using hash-based identification.
+  
+
 
