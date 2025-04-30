@@ -7,7 +7,7 @@ import argparse
 from datetime import datetime
 from collections import defaultdict
 from prom_parser import PrometheusParser
-from jsonp import convert_file
+from json_parser import convert_file
 
 CACHE_FILE = "cache_file.pkl"
 
