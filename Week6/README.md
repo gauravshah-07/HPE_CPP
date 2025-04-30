@@ -33,7 +33,7 @@ docker-compose down
 
 # Steps to use Config_Manager
 
-## Prepare the YAML Configuration: Generate a YAML file from either a Prometheus metrics file or a telemetry JSON file using the CLI:
+## Prepare the YAML Configuration: Generate a YAML file from either a Prometheus metrics file or a telemetry JSON file using the CLI
 
 ## From Prometheus format:
 ```bash
