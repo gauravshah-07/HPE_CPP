@@ -1,0 +1,182 @@
+  filetype: prom
+  topic: PDUMetrics
+  pdu_input_power:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (1988.0, 2431.0)
+    timestamp: <current_timestamp>
+  pdu_input_power_factor:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (94.0, 95.0)
+    timestamp: <current_timestamp>
+  pdu_active_energy:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (397354.0, 545275.0)
+    timestamp: <current_timestamp>
+  pdu_line_1_current:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (2.97, 3.36)
+    timestamp: <current_timestamp>
+  pdu_line_1_energy:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (136463.0, 146221.0)
+    timestamp: <current_timestamp>
+  pdu_line_1_power:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (580.0, 678.0)
+    timestamp: <current_timestamp>
+  pdu_line_1_power_factor:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (91.0, 95.0)
+    timestamp: <current_timestamp>
+  pdu_line_1_voltage:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (213.70000000000002, 213.9)
+    timestamp: <current_timestamp>
+  pdu_line_2_current:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (2.74, 4.3)
+    timestamp: <current_timestamp>
+  pdu_line_2_energy:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (116818.0, 241512.0)
+    timestamp: <current_timestamp>
+  pdu_line_2_power:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (544.0, 875.0)
+    timestamp: <current_timestamp>
+  pdu_line_2_power_factor:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (93.0, 95.0)
+    timestamp: <current_timestamp>
+  pdu_line_2_voltage:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (213.5, 213.60000000000002)
+    timestamp: <current_timestamp>
+  pdu_line_3_current:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (42.400000000000006, 43.400000000000006)
+    timestamp: <current_timestamp>
+  pdu_line_3_energy:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (144073.0, 157542.0)
+    timestamp: <current_timestamp>
+  pdu_line_3_power:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (864.0, 879.0)
+    timestamp: <current_timestamp>
+  pdu_line_3_power_factor:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (95.0, 95.0)
+    timestamp: <current_timestamp>
+  pdu_line_3_voltage:
+    labels:
+    - device_type:
+      - STPDU
+    - hostname:
+      - r1000p1
+      - r1000p2
+    value:
+    - (213.9, 214.10000000000002)
+    timestamp: <current_timestamp>

@@ -1,0 +1,34 @@
+filetype: json
+topic: TelemetryMetrics
+CrayTelemetry.Current:
+  labels:
+  - TelemetrySource:
+    - sC
+  - Location:
+    - x3000c0r26b0
+    - x9000c1r1b0
+    - x9000c1r5b0
+    - x9000c3r1b0
+    - x9000c3r3b0
+    - x9000c3r5b0
+    - x9000c3r7b0
+  - ParentalContext:
+    - ASIC
+    - PowerSupplySubsystem
+  - PhysicalContext:
+    - PowerSupply
+    - VoltageRegulator
+  - PhysicalSubContext:
+    - Input
+    - Output
+  - Index:
+    - '0'
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '5'
+    - '7'
+  value:
+  - (0, 85.9)
+  timestamp: <current_timestamp>
