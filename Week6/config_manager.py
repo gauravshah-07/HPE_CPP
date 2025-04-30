@@ -109,30 +109,30 @@ class ConfigManager:
 
     def get_config(self, yaml_data):
         if self.is_cached(yaml_data):
-            print("🔁 Config already cached. Reusing schema...")
+            print("Config already cached. Reusing schema...")
             return self.cache[self.generate_hash(yaml_data)]
         else:
-            print("🆕 New config detected. Caching and passing to simulation.")
+            print("New config detected. Caching and passing to simulation.")
             self.add_to_cache(yaml_data)
             return yaml_data
 
 
 def simulator_engine(yaml_config):
-    print("\n🚀 Running simulation with the following config:\n")
+    print("\n Running simulation with the following config:\n")
     print(yaml.dump(yaml_config, sort_keys=False, default_flow_style=False))
 
 
 def main():
-    print("📥 Parsing Prometheus file...")
+    print(" Parsing Prometheus file...")
     parser = PrometheusParser(PROM_FILE)
     yaml_data = parser.parse()
 
     # Step 2: Validate
     try:
         validate_yaml(yaml_data)
-        print("✅ YAML validated successfully.")
+        print(" YAML validated successfully.")
     except Exception as e:
-        print(f"❌ Validation failed: {e}")
+        print(f" Validation failed: {e}")
         return
 
     # Step 3: Cache lookup
@@ -143,7 +143,7 @@ def main():
     with open(OUTPUT_YAML, "w") as f:
         yaml.dump(config, f, sort_keys=False)
 
-    print(f"📄 YAML written to {OUTPUT_YAML}")
+    print(f" YAML written to {OUTPUT_YAML}")
 
 
     simulator_engine(config)
