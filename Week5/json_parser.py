@@ -62,7 +62,7 @@ def convert_file(input_file, output_file, metric_name, filetype, topic):
     with open(output_file, 'w') as outfile:
         outfile.write(yaml_output)
 
-    print(f"✅ YAML output has been saved to {output_file}")
+    print(f" YAML output has been saved to {output_file}")
 
 # Example usage
 input_file = '/home/shashank/20-04-2025-HPE/Py_Codes/telemetry_current.json'
