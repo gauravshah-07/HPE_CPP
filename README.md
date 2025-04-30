@@ -32,5 +32,11 @@ This repository is for code sharing and progress updates related to the HPE Care
   2. Extracted data is converted into a simulator-ready YAML format, where values are represented as ranges and labels are grouped by unique values.
   3. Configuration Manager implements caching mechanism to avoid regenerating YAML files for already-processed configurations, using hash-based identification.
   
+## Week 6
+- **Completed:**
+  1. Built the simulator engine to manage multiple metric simulators concurrently using threads, allowing parallel data generation and Kafka publishing.
+  2. Developed a multi-threaded Kafka producer to read from configurable YAML files and continuously publish synthetic metrics to respective topics.
+  3. Implemented a Kafka consumer receives both structured JSON and Prometheus-style messages from topics like PDU and Telemetry.
+
 
 
