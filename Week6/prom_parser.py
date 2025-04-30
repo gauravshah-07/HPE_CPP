@@ -2,7 +2,8 @@ import re
 from collections import defaultdict
 
 class PrometheusParser:
-    def __init__(self, file_path):
+    def __init__(self, file_path, topic):
+        self.topic=topic
         self.file_path = file_path
         self.pattern = re.compile(r'(\w+)\{([^}]*)\}\s+([\d.]+)\s+([\d.]+)')
 
@@ -12,7 +13,7 @@ class PrometheusParser:
 
         output_data = {
             "FileType": "prom",
-            "Topic": "PDU Metrics"
+            "Topic": self.topic
         }
         metric_store = {}
 
