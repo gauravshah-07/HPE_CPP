@@ -1,0 +1,7299 @@
+[
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402903,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 72.4
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402907,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.89
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402919,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 32.1
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402930,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 2.6
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402938,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 7.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402946,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402954,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.8
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402959,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 1.93
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402963,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 1.032
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402973,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 7.828
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402982,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.611
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402991,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.711
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402998,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.52
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403310,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403318,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 79.9
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403322,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.09
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403331,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 62.2
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403336,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.96
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403343,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.938
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403351,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.312
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402636,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.625
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402646,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.5
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402651,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.95
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402660,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 59.8
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402666,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402673,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402680,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.438
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402692,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402696,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402699,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.703
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402452,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402465,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.3
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402471,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.95
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402480,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 63.4
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402487,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.08
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402495,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.562
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402503,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.375
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402509,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402512,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402516,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.72
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402991,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 14.125
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403001,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 81.6
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403010,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.36
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403021,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 63.3
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403027,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.05
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403038,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 15.812
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403046,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.438
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403053,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403058,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403061,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.667
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402735,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 14.5
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402745,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.3
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402750,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.79
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402760,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 66.8
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402765,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.36
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402774,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.875
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402782,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402788,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 2.2
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402794,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.55
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402797,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.672
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402364,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 15.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402374,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 85.9
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402379,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.7
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402389,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 68
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402395,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.48
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402404,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 18.188
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402411,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402420,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 1.8
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402423,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.43
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402428,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.656
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402904,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.625
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402912,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.1
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402917,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.91
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402926,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 62.3
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402933,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.97
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402940,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.938
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402948,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.375
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402954,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402957,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207402960,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.694
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403070,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403081,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.6
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403098,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.99
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403109,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 62.7
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403112,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.96
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403117,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 15.938
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403124,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.438
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403129,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403132,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207403135,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.728
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207404348,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207404350,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207404352,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.791
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462908,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.625
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462921,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 77.9
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462927,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.93
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462937,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 62.5
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462943,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.93
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462950,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.875
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462958,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.375
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462965,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462969,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462972,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.705
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463065,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.625
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463070,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.6
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463074,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463081,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 62.3
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463085,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.95
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463091,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 15.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463096,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.375
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463101,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463104,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463107,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.666
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463315,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.875
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463326,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 80.2
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463331,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.08
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463338,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 61.2
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463345,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.93
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463351,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.562
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463359,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.312
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462908,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 72.5
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462914,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.91
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462930,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 32.2
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462935,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 2.61
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462942,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 7.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462952,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462960,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.8
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462965,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 1.86
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462969,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 1.011
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462974,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 7.555
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462980,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.607
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462987,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.906
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462996,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.527
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462637,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.5
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462643,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.1
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462648,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.93
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462660,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 59.3
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462665,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462673,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462679,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.438
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462688,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462691,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462695,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.721
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462450,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462458,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.3
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462462,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.95
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462473,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 63.6
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462478,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.08
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462485,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.5
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462491,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.375
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462498,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462501,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462503,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.695
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462994,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 14
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463002,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 81.6
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463008,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.34
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463019,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 62.6
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463024,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.99
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463032,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 15.5
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463039,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.438
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463047,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463051,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207463055,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.669
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462362,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 15.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462372,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 85.7
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462377,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.68
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462387,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 67.4
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462392,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.45
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462399,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 18.188
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462405,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462413,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 1.7
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462417,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.46
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462420,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.7
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462735,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 14.625
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462745,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.5
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462749,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.79
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462762,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 67.2
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462768,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.4
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462779,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 17.188
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462789,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462797,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 2.3
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462800,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.55
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207462803,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.667
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207464375,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207464382,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207464384,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.659
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522902,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.625
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522910,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.2
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522916,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.91
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522925,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 62.5
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522931,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.96
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522938,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.875
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522947,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.375
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522953,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522957,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522961,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.695
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523067,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523073,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 79
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523079,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523089,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 62.3
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523094,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.94
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523103,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.125
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523110,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.438
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523116,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523120,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523123,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.682
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523313,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.875
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523320,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 79.4
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523328,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.11
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523337,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 62
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523342,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.94
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523349,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.938
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523359,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.312
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522904,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 72.3
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522913,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.91
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522923,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 32.3
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522927,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 2.62
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522932,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 7.188
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522938,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522946,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.8
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522950,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 1.91
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522953,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 1.018
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522960,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 7.969
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522965,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.621
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522970,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.094
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522978,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.512
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522637,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.625
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522648,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.1
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522651,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.95
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522656,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 59.4
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522658,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.73
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522661,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 15.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522666,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.438
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522670,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522672,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522674,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.78
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522454,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522466,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.3
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522474,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.96
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522483,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 63.9
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522488,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.07
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522493,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.5
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522500,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.375
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522507,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522511,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522513,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.742
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522991,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 14.125
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522998,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 81.4
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523003,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.36
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523014,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 63.4
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523018,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.04
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523025,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 15.812
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523033,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.438
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523040,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523044,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207523048,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.697
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522364,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 15.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522374,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 85.4
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522382,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.7
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522396,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 68
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522404,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.45
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522408,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 18.188
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522414,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522419,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 1.7
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522422,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.46
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522425,
+    "Location": "x9000c3r1b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.685
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522736,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 14.625
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522744,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.4
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522749,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.78
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522759,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 67.8
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522766,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.41
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522776,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 17.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522783,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522788,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 2
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522792,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.55
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207522795,
+    "Location": "x9000c1r1b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.699
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207524364,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207524368,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207524371,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.692
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582903,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.625
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582912,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.2
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582917,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.91
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582925,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 62
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582932,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.93
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582939,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.938
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582945,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.375
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582953,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582956,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582960,
+    "Location": "x9000c1r3b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.698
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583067,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583081,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.3
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583089,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.99
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583097,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 62.1
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583101,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.95
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583103,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 15.938
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583105,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.438
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583109,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583112,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583115,
+    "Location": "x9000c1r7b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.666
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583312,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583320,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 79.8
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583328,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.1
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583337,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 62
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583342,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.95
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583349,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.938
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583356,
+    "Location": "x9000c3r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.312
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582908,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 72.1
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582916,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.88
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582930,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 32.2
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582937,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 2.61
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582947,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 7.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582957,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582965,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.8
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582969,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 1.89
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582972,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.967
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582979,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 7.664
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582986,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.6
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582994,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.953
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583000,
+    "Location": "x3000c0r26b0",
+    "ParentalContext": null,
+    "PhysicalContext": {
+      "string": "PowerSupply"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.533
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582638,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.625
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582647,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 77.9
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582653,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.96
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582663,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 59.9
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582669,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 4.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582675,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.25
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582682,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.438
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582689,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582694,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582697,
+    "Location": "x9000c3r3b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.705
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582444,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 13.75
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582447,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 78.7
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582451,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.95
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582458,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 63.2
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582464,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.08
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582467,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 16.5
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582472,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.375
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582475,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582481,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582485,
+    "Location": "x9000c1r5b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.68
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207582993,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 7
+    },
+    "DeviceSpecificContext": null,
+    "Value": 14
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583003,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 81.4
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583009,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 5
+    },
+    "DeviceSpecificContext": null,
+    "Value": 6.36
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583020,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 63.6
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583026,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 4
+    },
+    "DeviceSpecificContext": null,
+    "Value": 5.08
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583036,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 3
+    },
+    "DeviceSpecificContext": null,
+    "Value": 15.812
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583044,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 2
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.438
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583050,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Output"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583054,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "ASIC"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 1
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0
+  },
+  {
+    "TelemetrySource": "sC",
+    "MessageId": "CrayTelemetry.Current",
+    "Timestamp": 1742207583057,
+    "Location": "x9000c3r7b0",
+    "ParentalContext": {
+      "string": "PowerSupplySubsystem"
+    },
+    "PhysicalContext": {
+      "string": "VoltageRegulator"
+    },
+    "PhysicalSubContext": {
+      "string": "Input"
+    },
+    "ParentalIndex": null,
+    "Index": {
+      "int": 0
+    },
+    "DeviceSpecificContext": null,
+    "Value": 0.672
+  }
+]

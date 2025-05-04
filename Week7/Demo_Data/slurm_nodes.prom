@@ -1,0 +1,1250 @@
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c2s5b0n1",host="harding-adm",node_name="antero-turin-500w02"} 330.65960170015074 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c2s5b0n1",host="harding-adm",node_name="antero-turin-500w02"} 31259.58504404865 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c2s5b0n1",host="harding-adm",node_name="antero-turin-500w02"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c2s5b0n1",host="harding-adm",node_name="antero-turin-500w02"} 9 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c2s5b0n1",host="harding-adm",node_name="antero-turin-500w02"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c2s5b0n1",host="harding-adm",node_name="antero-turin-500w02"} 328 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c2s5b0n1",host="harding-adm",node_name="antero-turin-500w02"} 512 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c2s5b0n1",host="harding-adm",node_name="antero-turin-500w02"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c2s5b0n1",host="harding-adm",node_name="antero-turin-500w02"} 320 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c2s5b0n1",host="harding-adm",node_name="antero-turin-500w02"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c2s5b0n1",host="harding-adm",node_name="antero-turin-500w02"} 387 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c2s5b0n1",host="harding-adm",node_name="antero-turin-500w02"} 700000 1745748903000
+
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c2s5b0n2",host="harding-adm",node_name="antero-turin-500w03"} 31873.45873644251 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c2s5b0n2",host="harding-adm",node_name="antero-turin-500w03"} 0 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c2s5b0n2",host="harding-adm",node_name="antero-turin-500w03"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c2s5b0n2",host="harding-adm",node_name="antero-turin-500w03"} 9 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c2s5b0n2",host="harding-adm",node_name="antero-turin-500w03"} 336 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c2s5b0n2",host="harding-adm",node_name="antero-turin-500w03"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c2s5b0n2",host="harding-adm",node_name="antero-turin-500w03"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c2s5b0n2",host="harding-adm",node_name="antero-turin-500w03"} 700000 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c2s5b0n2",host="harding-adm",node_name="antero-turin-500w03"} 337.15307438382047 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c2s5b0n2",host="harding-adm",node_name="antero-turin-500w03"} 389 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c2s5b0n2",host="harding-adm",node_name="antero-turin-500w03"} 512 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c2s5b0n2",host="harding-adm",node_name="antero-turin-500w03"} 327 1745748903000
+
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c2s5b0n3",host="harding-adm",node_name="antero-turin-500w04"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c2s5b0n3",host="harding-adm",node_name="antero-turin-500w04"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c2s5b0n3",host="harding-adm",node_name="antero-turin-500w04"} 31235.636411775642 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c2s5b0n3",host="harding-adm",node_name="antero-turin-500w04"} 512 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c2s5b0n3",host="harding-adm",node_name="antero-turin-500w04"} 9 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c2s5b0n3",host="harding-adm",node_name="antero-turin-500w04"} 384 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c2s5b0n3",host="harding-adm",node_name="antero-turin-500w04"} 320 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c2s5b0n3",host="harding-adm",node_name="antero-turin-500w04"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c2s5b0n3",host="harding-adm",node_name="antero-turin-500w04"} 329 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c2s5b0n3",host="harding-adm",node_name="antero-turin-500w04"} 330.40627732454186 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c2s5b0n3",host="harding-adm",node_name="antero-turin-500w04"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c2s5b0n3",host="harding-adm",node_name="antero-turin-500w04"} 700000 1745748903000
+
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s5b0n0",host="harding-adm",node_name="antero-turin0001"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s5b0n0",host="harding-adm",node_name="antero-turin0001"} 259 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s5b0n0",host="harding-adm",node_name="antero-turin0001"} 267.1867678011544 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s5b0n0",host="harding-adm",node_name="antero-turin0001"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s5b0n0",host="harding-adm",node_name="antero-turin0001"} 25258.716327874383 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s5b0n0",host="harding-adm",node_name="antero-turin0001"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s5b0n0",host="harding-adm",node_name="antero-turin0001"} 307 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s5b0n0",host="harding-adm",node_name="antero-turin0001"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s5b0n0",host="harding-adm",node_name="antero-turin0001"} 9 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s5b0n0",host="harding-adm",node_name="antero-turin0001"} 700000 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s5b0n0",host="harding-adm",node_name="antero-turin0001"} 264 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s5b0n0",host="harding-adm",node_name="antero-turin0001"} 512 1745748903000
+
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s5b0n1",host="harding-adm",node_name="antero-turin0002"} 257 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s5b0n1",host="harding-adm",node_name="antero-turin0002"} 9 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s5b0n1",host="harding-adm",node_name="antero-turin0002"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s5b0n1",host="harding-adm",node_name="antero-turin0002"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s5b0n1",host="harding-adm",node_name="antero-turin0002"} 700000 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s5b0n1",host="harding-adm",node_name="antero-turin0002"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s5b0n1",host="harding-adm",node_name="antero-turin0002"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s5b0n1",host="harding-adm",node_name="antero-turin0002"} 512 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s5b0n1",host="harding-adm",node_name="antero-turin0002"} 24549.81135159467 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s5b0n1",host="harding-adm",node_name="antero-turin0002"} 259.68796909611865 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s5b0n1",host="harding-adm",node_name="antero-turin0002"} 293 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s5b0n1",host="harding-adm",node_name="antero-turin0002"} 253 1745748903000
+
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s5b0n2",host="harding-adm",node_name="antero-turin0003"} 9 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s5b0n2",host="harding-adm",node_name="antero-turin0003"} 512 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s5b0n2",host="harding-adm",node_name="antero-turin0003"} 256 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s5b0n2",host="harding-adm",node_name="antero-turin0003"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s5b0n2",host="harding-adm",node_name="antero-turin0003"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s5b0n2",host="harding-adm",node_name="antero-turin0003"} 300 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s5b0n2",host="harding-adm",node_name="antero-turin0003"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s5b0n2",host="harding-adm",node_name="antero-turin0003"} 700000 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s5b0n2",host="harding-adm",node_name="antero-turin0003"} 262.74044272640947 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s5b0n2",host="harding-adm",node_name="antero-turin0003"} 260 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s5b0n2",host="harding-adm",node_name="antero-turin0003"} 24838.37940517139 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s5b0n2",host="harding-adm",node_name="antero-turin0003"} 0 1745748903000
+
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s5b0n3",host="harding-adm",node_name="antero-turin0004"} 9 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s5b0n3",host="harding-adm",node_name="antero-turin0004"} 25171.846706777447 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s5b0n3",host="harding-adm",node_name="antero-turin0004"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s5b0n3",host="harding-adm",node_name="antero-turin0004"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s5b0n3",host="harding-adm",node_name="antero-turin0004"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s5b0n3",host="harding-adm",node_name="antero-turin0004"} 512 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s5b0n3",host="harding-adm",node_name="antero-turin0004"} 700000 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s5b0n3",host="harding-adm",node_name="antero-turin0004"} 259 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s5b0n3",host="harding-adm",node_name="antero-turin0004"} 300 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s5b0n3",host="harding-adm",node_name="antero-turin0004"} 265 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s5b0n3",host="harding-adm",node_name="antero-turin0004"} 266.26785993820937 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s5b0n3",host="harding-adm",node_name="antero-turin0004"} 0 1745748903000
+
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c3s1b0n0",host="harding-adm",node_name="antero0001"} 422 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c3s1b0n0",host="harding-adm",node_name="antero0001"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c3s1b0n0",host="harding-adm",node_name="antero0001"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c3s1b0n0",host="harding-adm",node_name="antero0001"} 3 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c3s1b0n0",host="harding-adm",node_name="antero0001"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c3s1b0n0",host="harding-adm",node_name="antero0001"} 40090.60433754972 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c3s1b0n0",host="harding-adm",node_name="antero0001"} 384 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c3s1b0n0",host="harding-adm",node_name="antero0001"} 420 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c3s1b0n0",host="harding-adm",node_name="antero0001"} 370000 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c3s1b0n0",host="harding-adm",node_name="antero0001"} 439 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c3s1b0n0",host="harding-adm",node_name="antero0001"} 424.07029421021014 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c3s1b0n0",host="harding-adm",node_name="antero0001"} 0 1745748903000
+
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c3s1b0n1",host="harding-adm",node_name="antero0002"} 437 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c3s1b0n1",host="harding-adm",node_name="antero0002"} 440.2183907350349 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c3s1b0n1",host="harding-adm",node_name="antero0002"} 456 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c3s1b0n1",host="harding-adm",node_name="antero0002"} 3 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c3s1b0n1",host="harding-adm",node_name="antero0002"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c3s1b0n1",host="harding-adm",node_name="antero0002"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c3s1b0n1",host="harding-adm",node_name="antero0002"} 438 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c3s1b0n1",host="harding-adm",node_name="antero0002"} 41617.207255556525 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c3s1b0n1",host="harding-adm",node_name="antero0002"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c3s1b0n1",host="harding-adm",node_name="antero0002"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c3s1b0n1",host="harding-adm",node_name="antero0002"} 384 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c3s1b0n1",host="harding-adm",node_name="antero0002"} 370000 1745748903000
+
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c3s1b0n2",host="harding-adm",node_name="antero0003"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c3s1b0n2",host="harding-adm",node_name="antero0003"} 384 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c3s1b0n2",host="harding-adm",node_name="antero0003"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c3s1b0n2",host="harding-adm",node_name="antero0003"} 648.9788474371856 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c3s1b0n2",host="harding-adm",node_name="antero0003"} 679 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c3s1b0n2",host="harding-adm",node_name="antero0003"} 61352.92792554396 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c3s1b0n2",host="harding-adm",node_name="antero0003"} 370000 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c3s1b0n2",host="harding-adm",node_name="antero0003"} 3 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c3s1b0n2",host="harding-adm",node_name="antero0003"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c3s1b0n2",host="harding-adm",node_name="antero0003"} 642 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c3s1b0n2",host="harding-adm",node_name="antero0003"} 645 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c3s1b0n2",host="harding-adm",node_name="antero0003"} 0 1745748903000
+
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c3s1b0n3",host="harding-adm",node_name="antero0004"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c3s1b0n3",host="harding-adm",node_name="antero0004"} 601 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c3s1b0n3",host="harding-adm",node_name="antero0004"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c3s1b0n3",host="harding-adm",node_name="antero0004"} 370000 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c3s1b0n3",host="harding-adm",node_name="antero0004"} 605.5300079102974 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c3s1b0n3",host="harding-adm",node_name="antero0004"} 636 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c3s1b0n3",host="harding-adm",node_name="antero0004"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c3s1b0n3",host="harding-adm",node_name="antero0004"} 599 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c3s1b0n3",host="harding-adm",node_name="antero0004"} 384 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c3s1b0n3",host="harding-adm",node_name="antero0004"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c3s1b0n3",host="harding-adm",node_name="antero0004"} 3 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c3s1b0n3",host="harding-adm",node_name="antero0004"} 57245.37722420973 1745748903000
+
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s1b0n0",host="harding-adm",node_name="antero0011"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s1b0n0",host="harding-adm",node_name="antero0011"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s1b0n0",host="harding-adm",node_name="antero0011"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s1b0n0",host="harding-adm",node_name="antero0011"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s1b0n0",host="harding-adm",node_name="antero0011"} 370000 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s1b0n0",host="harding-adm",node_name="antero0011"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s1b0n0",host="harding-adm",node_name="antero0011"} 3 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s1b0n0",host="harding-adm",node_name="antero0011"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s1b0n0",host="harding-adm",node_name="antero0011"} 448 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s1b0n0",host="harding-adm",node_name="antero0011"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s1b0n0",host="harding-adm",node_name="antero0011"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s1b0n0",host="harding-adm",node_name="antero0011"} 0 1745748903000
+
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s1b0n1",host="harding-adm",node_name="antero0012"} 448 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s1b0n1",host="harding-adm",node_name="antero0012"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s1b0n1",host="harding-adm",node_name="antero0012"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s1b0n1",host="harding-adm",node_name="antero0012"} 3 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s1b0n1",host="harding-adm",node_name="antero0012"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s1b0n1",host="harding-adm",node_name="antero0012"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s1b0n1",host="harding-adm",node_name="antero0012"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s1b0n1",host="harding-adm",node_name="antero0012"} 370000 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s1b0n1",host="harding-adm",node_name="antero0012"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s1b0n1",host="harding-adm",node_name="antero0012"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s1b0n1",host="harding-adm",node_name="antero0012"} 0 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s1b0n1",host="harding-adm",node_name="antero0012"} 0 1745748903000
+
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s1b0n2",host="harding-adm",node_name="antero0013"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s1b0n2",host="harding-adm",node_name="antero0013"} 370000 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s1b0n2",host="harding-adm",node_name="antero0013"} 3 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s1b0n2",host="harding-adm",node_name="antero0013"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s1b0n2",host="harding-adm",node_name="antero0013"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s1b0n2",host="harding-adm",node_name="antero0013"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s1b0n2",host="harding-adm",node_name="antero0013"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s1b0n2",host="harding-adm",node_name="antero0013"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s1b0n2",host="harding-adm",node_name="antero0013"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s1b0n2",host="harding-adm",node_name="antero0013"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s1b0n2",host="harding-adm",node_name="antero0013"} 448 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s1b0n2",host="harding-adm",node_name="antero0013"} 0 1745748903000
+
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s1b0n3",host="harding-adm",node_name="antero0014"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s1b0n3",host="harding-adm",node_name="antero0014"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s1b0n3",host="harding-adm",node_name="antero0014"} 3 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s1b0n3",host="harding-adm",node_name="antero0014"} 370000 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s1b0n3",host="harding-adm",node_name="antero0014"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s1b0n3",host="harding-adm",node_name="antero0014"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s1b0n3",host="harding-adm",node_name="antero0014"} 448 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s1b0n3",host="harding-adm",node_name="antero0014"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s1b0n3",host="harding-adm",node_name="antero0014"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s1b0n3",host="harding-adm",node_name="antero0014"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s1b0n3",host="harding-adm",node_name="antero0014"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s1b0n3",host="harding-adm",node_name="antero0014"} 0 1745748903000
+
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s2b0n0",host="harding-adm",node_name="antero0019"} 3 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s2b0n0",host="harding-adm",node_name="antero0019"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s2b0n0",host="harding-adm",node_name="antero0019"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s2b0n0",host="harding-adm",node_name="antero0019"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s2b0n0",host="harding-adm",node_name="antero0019"} 414.0729019846289 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s2b0n0",host="harding-adm",node_name="antero0019"} 512 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s2b0n0",host="harding-adm",node_name="antero0019"} 423 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s2b0n0",host="harding-adm",node_name="antero0019"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s2b0n0",host="harding-adm",node_name="antero0019"} 418 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s2b0n0",host="harding-adm",node_name="antero0019"} 39144.669339743275 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s2b0n0",host="harding-adm",node_name="antero0019"} 760000 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s2b0n0",host="harding-adm",node_name="antero0019"} 411 1745748903000
+
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s2b0n1",host="harding-adm",node_name="antero0020"} 402 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s2b0n1",host="harding-adm",node_name="antero0020"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s2b0n1",host="harding-adm",node_name="antero0020"} 512 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s2b0n1",host="harding-adm",node_name="antero0020"} 37650.58863779181 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s2b0n1",host="harding-adm",node_name="antero0020"} 664 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s2b0n1",host="harding-adm",node_name="antero0020"} 760000 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s2b0n1",host="harding-adm",node_name="antero0020"} 3 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s2b0n1",host="harding-adm",node_name="antero0020"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s2b0n1",host="harding-adm",node_name="antero0020"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s2b0n1",host="harding-adm",node_name="antero0020"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s2b0n1",host="harding-adm",node_name="antero0020"} 398.268493811275 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s2b0n1",host="harding-adm",node_name="antero0020"} 394 1745748903000
+
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s2b0n2",host="harding-adm",node_name="antero0021"} 407 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s2b0n2",host="harding-adm",node_name="antero0021"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s2b0n2",host="harding-adm",node_name="antero0021"} 3 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s2b0n2",host="harding-adm",node_name="antero0021"} 415 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s2b0n2",host="harding-adm",node_name="antero0021"} 410.6338168389263 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s2b0n2",host="harding-adm",node_name="antero0021"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s2b0n2",host="harding-adm",node_name="antero0021"} 512 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s2b0n2",host="harding-adm",node_name="antero0021"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s2b0n2",host="harding-adm",node_name="antero0021"} 420 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s2b0n2",host="harding-adm",node_name="antero0021"} 760000 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s2b0n2",host="harding-adm",node_name="antero0021"} 38819.5530372407 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s2b0n2",host="harding-adm",node_name="antero0021"} 0 1745748903000
+
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s2b0n3",host="harding-adm",node_name="antero0022"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s2b0n3",host="harding-adm",node_name="antero0022"} 512 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s2b0n3",host="harding-adm",node_name="antero0022"} 3 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s2b0n3",host="harding-adm",node_name="antero0022"} 412.5856295344648 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s2b0n3",host="harding-adm",node_name="antero0022"} 409 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s2b0n3",host="harding-adm",node_name="antero0022"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s2b0n3",host="harding-adm",node_name="antero0022"} 422 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s2b0n3",host="harding-adm",node_name="antero0022"} 417 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s2b0n3",host="harding-adm",node_name="antero0022"} 760000 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s2b0n3",host="harding-adm",node_name="antero0022"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s2b0n3",host="harding-adm",node_name="antero0022"} 39004.069005838915 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s2b0n3",host="harding-adm",node_name="antero0022"} 0 1745748903000
+
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s3b0n0",host="harding-adm",node_name="antero0027"} 785 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s3b0n0",host="harding-adm",node_name="antero0027"} 691 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s3b0n0",host="harding-adm",node_name="antero0027"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s3b0n0",host="harding-adm",node_name="antero0027"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s3b0n0",host="harding-adm",node_name="antero0027"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s3b0n0",host="harding-adm",node_name="antero0027"} 512 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s3b0n0",host="harding-adm",node_name="antero0027"} 760000 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s3b0n0",host="harding-adm",node_name="antero0027"} 65925.98028334735 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s3b0n0",host="harding-adm",node_name="antero0027"} 697.3809713294888 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s3b0n0",host="harding-adm",node_name="antero0027"} 694 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s3b0n0",host="harding-adm",node_name="antero0027"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s3b0n0",host="harding-adm",node_name="antero0027"} 3 1745748903000
+
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s3b0n1",host="harding-adm",node_name="antero0028"} 512 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s3b0n1",host="harding-adm",node_name="antero0028"} 713 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s3b0n1",host="harding-adm",node_name="antero0028"} 65945.44171669075 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s3b0n1",host="harding-adm",node_name="antero0028"} 697.5868390804142 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s3b0n1",host="harding-adm",node_name="antero0028"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s3b0n1",host="harding-adm",node_name="antero0028"} 689 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s3b0n1",host="harding-adm",node_name="antero0028"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s3b0n1",host="harding-adm",node_name="antero0028"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s3b0n1",host="harding-adm",node_name="antero0028"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s3b0n1",host="harding-adm",node_name="antero0028"} 760000 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s3b0n1",host="harding-adm",node_name="antero0028"} 694 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s3b0n1",host="harding-adm",node_name="antero0028"} 3 1745748903000
+
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s3b0n2",host="harding-adm",node_name="antero0029"} 66231.06934670746 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s3b0n2",host="harding-adm",node_name="antero0029"} 3 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s3b0n2",host="harding-adm",node_name="antero0029"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s3b0n2",host="harding-adm",node_name="antero0029"} 760000 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s3b0n2",host="harding-adm",node_name="antero0029"} 697 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s3b0n2",host="harding-adm",node_name="antero0029"} 694 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s3b0n2",host="harding-adm",node_name="antero0029"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s3b0n2",host="harding-adm",node_name="antero0029"} 717 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s3b0n2",host="harding-adm",node_name="antero0029"} 700.6082752040982 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s3b0n2",host="harding-adm",node_name="antero0029"} 512 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s3b0n2",host="harding-adm",node_name="antero0029"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s3b0n2",host="harding-adm",node_name="antero0029"} 0 1745748903000
+
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s3b0n3",host="harding-adm",node_name="antero0030"} 512 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s3b0n3",host="harding-adm",node_name="antero0030"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s3b0n3",host="harding-adm",node_name="antero0030"} 718 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s3b0n3",host="harding-adm",node_name="antero0030"} 760000 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s3b0n3",host="harding-adm",node_name="antero0030"} 66281.69780054405 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s3b0n3",host="harding-adm",node_name="antero0030"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s3b0n3",host="harding-adm",node_name="antero0030"} 698 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s3b0n3",host="harding-adm",node_name="antero0030"} 701.1438372981911 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s3b0n3",host="harding-adm",node_name="antero0030"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s3b0n3",host="harding-adm",node_name="antero0030"} 695 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s3b0n3",host="harding-adm",node_name="antero0030"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s3b0n3",host="harding-adm",node_name="antero0030"} 3 1745748903000
+
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c5s2b0n0",host="harding-adm",node_name="antero0051"} 813 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c5s2b0n0",host="harding-adm",node_name="antero0051"} 0 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c5s2b0n0",host="harding-adm",node_name="antero0051"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c5s2b0n0",host="harding-adm",node_name="antero0051"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c5s2b0n0",host="harding-adm",node_name="antero0051"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c5s2b0n0",host="harding-adm",node_name="antero0051"} 847 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c5s2b0n0",host="harding-adm",node_name="antero0051"} 77252.6037282897 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c5s2b0n0",host="harding-adm",node_name="antero0051"} 809 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c5s2b0n0",host="harding-adm",node_name="antero0051"} 384 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c5s2b0n0",host="harding-adm",node_name="antero0051"} 817.1724852783013 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c5s2b0n0",host="harding-adm",node_name="antero0051"} 370000 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c5s2b0n0",host="harding-adm",node_name="antero0051"} 3 1745748903000
+
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c5s2b0n1",host="harding-adm",node_name="antero0052"} 802.9498615019336 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c5s2b0n1",host="harding-adm",node_name="antero0052"} 795 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c5s2b0n1",host="harding-adm",node_name="antero0052"} 3 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c5s2b0n1",host="harding-adm",node_name="antero0052"} 799 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c5s2b0n1",host="harding-adm",node_name="antero0052"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c5s2b0n1",host="harding-adm",node_name="antero0052"} 0 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c5s2b0n1",host="harding-adm",node_name="antero0052"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c5s2b0n1",host="harding-adm",node_name="antero0052"} 832 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c5s2b0n1",host="harding-adm",node_name="antero0052"} 384 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c5s2b0n1",host="harding-adm",node_name="antero0052"} 75908.04750072955 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c5s2b0n1",host="harding-adm",node_name="antero0052"} 370000 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c5s2b0n1",host="harding-adm",node_name="antero0052"} 0 1745748903000
+
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c5s2b0n2",host="harding-adm",node_name="antero0053"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c5s2b0n2",host="harding-adm",node_name="antero0053"} 73673.85426763423 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c5s2b0n2",host="harding-adm",node_name="antero0053"} 775 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c5s2b0n2",host="harding-adm",node_name="antero0053"} 809 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c5s2b0n2",host="harding-adm",node_name="antero0053"} 384 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c5s2b0n2",host="harding-adm",node_name="antero0053"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c5s2b0n2",host="harding-adm",node_name="antero0053"} 779.3167263318425 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c5s2b0n2",host="harding-adm",node_name="antero0053"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c5s2b0n2",host="harding-adm",node_name="antero0053"} 370000 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c5s2b0n2",host="harding-adm",node_name="antero0053"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c5s2b0n2",host="harding-adm",node_name="antero0053"} 769 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c5s2b0n2",host="harding-adm",node_name="antero0053"} 3 1745748903000
+
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c5s2b0n3",host="harding-adm",node_name="antero0054"} 384 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c5s2b0n3",host="harding-adm",node_name="antero0054"} 77030.91652206298 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c5s2b0n3",host="harding-adm",node_name="antero0054"} 370000 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c5s2b0n3",host="harding-adm",node_name="antero0054"} 843 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c5s2b0n3",host="harding-adm",node_name="antero0054"} 811 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c5s2b0n3",host="harding-adm",node_name="antero0054"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c5s2b0n3",host="harding-adm",node_name="antero0054"} 807 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c5s2b0n3",host="harding-adm",node_name="antero0054"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c5s2b0n3",host="harding-adm",node_name="antero0054"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c5s2b0n3",host="harding-adm",node_name="antero0054"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c5s2b0n3",host="harding-adm",node_name="antero0054"} 3 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c5s2b0n3",host="harding-adm",node_name="antero0054"} 814.8274915632667 1745748903000
+
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c5s5b0n0",host="harding-adm",node_name="antero0061"} 370000 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c5s5b0n0",host="harding-adm",node_name="antero0061"} 417.2586606468743 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c5s5b0n0",host="harding-adm",node_name="antero0061"} 0 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c5s5b0n0",host="harding-adm",node_name="antero0061"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c5s5b0n0",host="harding-adm",node_name="antero0061"} 422 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c5s5b0n0",host="harding-adm",node_name="antero0061"} 431 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c5s5b0n0",host="harding-adm",node_name="antero0061"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c5s5b0n0",host="harding-adm",node_name="antero0061"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c5s5b0n0",host="harding-adm",node_name="antero0061"} 413 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c5s5b0n0",host="harding-adm",node_name="antero0061"} 3 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c5s5b0n0",host="harding-adm",node_name="antero0061"} 39446.206521138316 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c5s5b0n0",host="harding-adm",node_name="antero0061"} 384 1745748903000
+
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c5s5b0n1",host="harding-adm",node_name="antero0062"} 384 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c5s5b0n1",host="harding-adm",node_name="antero0062"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c5s5b0n1",host="harding-adm",node_name="antero0062"} 427.1614678884309 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c5s5b0n1",host="harding-adm",node_name="antero0062"} 370000 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c5s5b0n1",host="harding-adm",node_name="antero0062"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c5s5b0n1",host="harding-adm",node_name="antero0062"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c5s5b0n1",host="harding-adm",node_name="antero0062"} 441 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c5s5b0n1",host="harding-adm",node_name="antero0062"} 431 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c5s5b0n1",host="harding-adm",node_name="antero0062"} 423 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c5s5b0n1",host="harding-adm",node_name="antero0062"} 3 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c5s5b0n1",host="harding-adm",node_name="antero0062"} 40382.38428197607 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c5s5b0n1",host="harding-adm",node_name="antero0062"} 0 1745748903000
+
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c5s5b0n2",host="harding-adm",node_name="antero0063"} 436.83342940423836 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c5s5b0n2",host="harding-adm",node_name="antero0063"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c5s5b0n2",host="harding-adm",node_name="antero0063"} 3 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c5s5b0n2",host="harding-adm",node_name="antero0063"} 441 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c5s5b0n2",host="harding-adm",node_name="antero0063"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c5s5b0n2",host="harding-adm",node_name="antero0063"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c5s5b0n2",host="harding-adm",node_name="antero0063"} 451 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c5s5b0n2",host="harding-adm",node_name="antero0063"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c5s5b0n2",host="harding-adm",node_name="antero0063"} 384 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c5s5b0n2",host="harding-adm",node_name="antero0063"} 41296.738445572664 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c5s5b0n2",host="harding-adm",node_name="antero0063"} 370000 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c5s5b0n2",host="harding-adm",node_name="antero0063"} 433 1745748903000
+
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c5s5b0n3",host="harding-adm",node_name="antero0064"} 3 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c5s5b0n3",host="harding-adm",node_name="antero0064"} 435 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c5s5b0n3",host="harding-adm",node_name="antero0064"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c5s5b0n3",host="harding-adm",node_name="antero0064"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c5s5b0n3",host="harding-adm",node_name="antero0064"} 452 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c5s5b0n3",host="harding-adm",node_name="antero0064"} 443 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c5s5b0n3",host="harding-adm",node_name="antero0064"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c5s5b0n3",host="harding-adm",node_name="antero0064"} 438.5535528563048 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c5s5b0n3",host="harding-adm",node_name="antero0064"} 370000 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c5s5b0n3",host="harding-adm",node_name="antero0064"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c5s5b0n3",host="harding-adm",node_name="antero0064"} 384 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c5s5b0n3",host="harding-adm",node_name="antero0064"} 41459.35303390892 1745748903000
+
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c2s3b0n0",host="harding-adm",node_name="blancapeak0003"} 676 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c2s3b0n0",host="harding-adm",node_name="blancapeak0003"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c2s3b0n0",host="harding-adm",node_name="blancapeak0003"} 63788.46445725634 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c2s3b0n0",host="harding-adm",node_name="blancapeak0003"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c2s3b0n0",host="harding-adm",node_name="blancapeak0003"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c2s3b0n0",host="harding-adm",node_name="blancapeak0003"} 674 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c2s3b0n0",host="harding-adm",node_name="blancapeak0003"} 1007.8649300119655 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c2s3b0n0",host="harding-adm",node_name="blancapeak0003"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c2s3b0n0",host="harding-adm",node_name="blancapeak0003"} 288 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c2s3b0n0",host="harding-adm",node_name="blancapeak0003"} 3 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c2s3b0n0",host="harding-adm",node_name="blancapeak0003"} 1024.1100000000001 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c2s3b0n0",host="harding-adm",node_name="blancapeak0003"} 110000 1745748903000
+
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c2s3b1n0",host="harding-adm",node_name="blancapeak0004"} 2052.11 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c2s3b1n0",host="harding-adm",node_name="blancapeak0004"} 627 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c2s3b1n0",host="harding-adm",node_name="blancapeak0004"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c2s3b1n0",host="harding-adm",node_name="blancapeak0004"} 9 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c2s3b1n0",host="harding-adm",node_name="blancapeak0004"} 288 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c2s3b1n0",host="harding-adm",node_name="blancapeak0004"} 626 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c2s3b1n0",host="harding-adm",node_name="blancapeak0004"} 110000 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c2s3b1n0",host="harding-adm",node_name="blancapeak0004"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c2s3b1n0",host="harding-adm",node_name="blancapeak0004"} 60193.88755385897 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c2s3b1n0",host="harding-adm",node_name="blancapeak0004"} 1018.1659430594526 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c2s3b1n0",host="harding-adm",node_name="blancapeak0004"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c2s3b1n0",host="harding-adm",node_name="blancapeak0004"} 0 1745748903000
+
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c2s4b0n0",host="harding-adm",node_name="blancapeak0005"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c2s4b0n0",host="harding-adm",node_name="blancapeak0005"} 62513.176098520365 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c2s4b0n0",host="harding-adm",node_name="blancapeak0005"} 1020.6760453588308 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c2s4b0n0",host="harding-adm",node_name="blancapeak0005"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c2s4b0n0",host="harding-adm",node_name="blancapeak0005"} 653 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c2s4b0n0",host="harding-adm",node_name="blancapeak0005"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c2s4b0n0",host="harding-adm",node_name="blancapeak0005"} 562.95 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c2s4b0n0",host="harding-adm",node_name="blancapeak0005"} 288 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c2s4b0n0",host="harding-adm",node_name="blancapeak0005"} 9 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c2s4b0n0",host="harding-adm",node_name="blancapeak0005"} 2033.67 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c2s4b0n0",host="harding-adm",node_name="blancapeak0005"} 110000 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c2s4b0n0",host="harding-adm",node_name="blancapeak0005"} 0 1745748903000
+
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c2s4b1n0",host="harding-adm",node_name="blancapeak0006"} 63982.79386043115 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c2s4b1n0",host="harding-adm",node_name="blancapeak0006"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c2s4b1n0",host="harding-adm",node_name="blancapeak0006"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c2s4b1n0",host="harding-adm",node_name="blancapeak0006"} 2040.6100000000001 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c2s4b1n0",host="harding-adm",node_name="blancapeak0006"} 1000 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c2s4b1n0",host="harding-adm",node_name="blancapeak0006"} 666 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c2s4b1n0",host="harding-adm",node_name="blancapeak0006"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c2s4b1n0",host="harding-adm",node_name="blancapeak0006"} 1048.1324090501746 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c2s4b1n0",host="harding-adm",node_name="blancapeak0006"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c2s4b1n0",host="harding-adm",node_name="blancapeak0006"} 288 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c2s4b1n0",host="harding-adm",node_name="blancapeak0006"} 110000 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c2s4b1n0",host="harding-adm",node_name="blancapeak0006"} 9 1745748903000
+
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c2s6b0n0",host="harding-adm",node_name="blancapeak0009"} 110000 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c2s6b0n0",host="harding-adm",node_name="blancapeak0009"} 288 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c2s6b0n0",host="harding-adm",node_name="blancapeak0009"} 1018.5541847398001 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c2s6b0n0",host="harding-adm",node_name="blancapeak0009"} 9 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c2s6b0n0",host="harding-adm",node_name="blancapeak0009"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c2s6b0n0",host="harding-adm",node_name="blancapeak0009"} 2018.78 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c2s6b0n0",host="harding-adm",node_name="blancapeak0009"} 633 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c2s6b0n0",host="harding-adm",node_name="blancapeak0009"} 60942.70265764919 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c2s6b0n0",host="harding-adm",node_name="blancapeak0009"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c2s6b0n0",host="harding-adm",node_name="blancapeak0009"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c2s6b0n0",host="harding-adm",node_name="blancapeak0009"} 633 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c2s6b0n0",host="harding-adm",node_name="blancapeak0009"} 0 1745748903000
+
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c2s6b1n0",host="harding-adm",node_name="blancapeak0010"} 288 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c2s6b1n0",host="harding-adm",node_name="blancapeak0010"} 653 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c2s6b1n0",host="harding-adm",node_name="blancapeak0010"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c2s6b1n0",host="harding-adm",node_name="blancapeak0010"} 61670.57005034431 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c2s6b1n0",host="harding-adm",node_name="blancapeak0010"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c2s6b1n0",host="harding-adm",node_name="blancapeak0010"} 657 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c2s6b1n0",host="harding-adm",node_name="blancapeak0010"} 652.3460833325536 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c2s6b1n0",host="harding-adm",node_name="blancapeak0010"} 3 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c2s6b1n0",host="harding-adm",node_name="blancapeak0010"} 110000 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c2s6b1n0",host="harding-adm",node_name="blancapeak0010"} 58 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c2s6b1n0",host="harding-adm",node_name="blancapeak0010"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c2s6b1n0",host="harding-adm",node_name="blancapeak0010"} 0 1745748903000
+
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="fiesta01",host="harding-adm",node_name="fiesta01"} 168.20976015006087 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="fiesta01",host="harding-adm",node_name="fiesta01"} 3 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="fiesta01",host="harding-adm",node_name="fiesta01"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="fiesta01",host="harding-adm",node_name="fiesta01"} 190 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="fiesta01",host="harding-adm",node_name="fiesta01"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="fiesta01",host="harding-adm",node_name="fiesta01"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="fiesta01",host="harding-adm",node_name="fiesta01"} 30000 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="fiesta01",host="harding-adm",node_name="fiesta01"} 64 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="fiesta01",host="harding-adm",node_name="fiesta01"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="fiesta01",host="harding-adm",node_name="fiesta01"} 15901.202158416594 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="fiesta01",host="harding-adm",node_name="fiesta01"} 214 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="fiesta01",host="harding-adm",node_name="fiesta01"} 79 1745748903000
+
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="fiesta02",host="harding-adm",node_name="fiesta02"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="fiesta02",host="harding-adm",node_name="fiesta02"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="fiesta02",host="harding-adm",node_name="fiesta02"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="fiesta02",host="harding-adm",node_name="fiesta02"} 11205.441343615179 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="fiesta02",host="harding-adm",node_name="fiesta02"} 118.53596440309059 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="fiesta02",host="harding-adm",node_name="fiesta02"} 119 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="fiesta02",host="harding-adm",node_name="fiesta02"} 130 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="fiesta02",host="harding-adm",node_name="fiesta02"} 3 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="fiesta02",host="harding-adm",node_name="fiesta02"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="fiesta02",host="harding-adm",node_name="fiesta02"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="fiesta02",host="harding-adm",node_name="fiesta02"} 64 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="fiesta02",host="harding-adm",node_name="fiesta02"} 30000 1745748903000
+
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="fiesta03",host="harding-adm",node_name="fiesta03"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="fiesta03",host="harding-adm",node_name="fiesta03"} 30000 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="fiesta03",host="harding-adm",node_name="fiesta03"} 174 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="fiesta03",host="harding-adm",node_name="fiesta03"} 221.22136752215468 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="fiesta03",host="harding-adm",node_name="fiesta03"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="fiesta03",host="harding-adm",node_name="fiesta03"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="fiesta03",host="harding-adm",node_name="fiesta03"} 512 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="fiesta03",host="harding-adm",node_name="fiesta03"} 232 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="fiesta03",host="harding-adm",node_name="fiesta03"} 20912.50162178698 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="fiesta03",host="harding-adm",node_name="fiesta03"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="fiesta03",host="harding-adm",node_name="fiesta03"} 3 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="fiesta03",host="harding-adm",node_name="fiesta03"} 227 1745748903000
+
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="fiesta04",host="harding-adm",node_name="fiesta04"} 3 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="fiesta04",host="harding-adm",node_name="fiesta04"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="fiesta04",host="harding-adm",node_name="fiesta04"} 81 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="fiesta04",host="harding-adm",node_name="fiesta04"} 64 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="fiesta04",host="harding-adm",node_name="fiesta04"} 180.75026068536897 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="fiesta04",host="harding-adm",node_name="fiesta04"} 17086.6842260927 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="fiesta04",host="harding-adm",node_name="fiesta04"} 216 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="fiesta04",host="harding-adm",node_name="fiesta04"} 157 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="fiesta04",host="harding-adm",node_name="fiesta04"} 30000 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="fiesta04",host="harding-adm",node_name="fiesta04"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="fiesta04",host="harding-adm",node_name="fiesta04"} 0 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="fiesta04",host="harding-adm",node_name="fiesta04"} 0 1745748903000
+
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="harding-login1",host="harding-adm",node_name="harding-login1"} 18379.039911998876 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="harding-login1",host="harding-adm",node_name="harding-login1"} 1 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="harding-login1",host="harding-adm",node_name="harding-login1"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="harding-login1",host="harding-adm",node_name="harding-login1"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="harding-login1",host="harding-adm",node_name="harding-login1"} 353 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="harding-login1",host="harding-adm",node_name="harding-login1"} 1 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="harding-login1",host="harding-adm",node_name="harding-login1"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="harding-login1",host="harding-adm",node_name="harding-login1"} 211 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="harding-login1",host="harding-adm",node_name="harding-login1"} 194.42133996951068 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="harding-login1",host="harding-adm",node_name="harding-login1"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="harding-login1",host="harding-adm",node_name="harding-login1"} 3 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="harding-login1",host="harding-adm",node_name="harding-login1"} 153 1745748903000
+
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="harding-login2",host="harding-adm",node_name="harding-login2"} 189 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="harding-login2",host="harding-adm",node_name="harding-login2"} 18247.86937985277 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="harding-login2",host="harding-adm",node_name="harding-login2"} 1 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="harding-login2",host="harding-adm",node_name="harding-login2"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="harding-login2",host="harding-adm",node_name="harding-login2"} 332 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="harding-login2",host="harding-adm",node_name="harding-login2"} 193.03385425011697 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="harding-login2",host="harding-adm",node_name="harding-login2"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="harding-login2",host="harding-adm",node_name="harding-login2"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="harding-login2",host="harding-adm",node_name="harding-login2"} 1 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="harding-login2",host="harding-adm",node_name="harding-login2"} 3 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="harding-login2",host="harding-adm",node_name="harding-login2"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="harding-login2",host="harding-adm",node_name="harding-login2"} 122 1745748903000
+
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="harding-login3-bp",host="harding-adm",node_name="harding-login3-bp"} 1 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="harding-login3-bp",host="harding-adm",node_name="harding-login3-bp"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="harding-login3-bp",host="harding-adm",node_name="harding-login3-bp"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="harding-login3-bp",host="harding-adm",node_name="harding-login3-bp"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="harding-login3-bp",host="harding-adm",node_name="harding-login3-bp"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="harding-login3-bp",host="harding-adm",node_name="harding-login3-bp"} 1 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="harding-login3-bp",host="harding-adm",node_name="harding-login3-bp"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="harding-login3-bp",host="harding-adm",node_name="harding-login3-bp"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="harding-login3-bp",host="harding-adm",node_name="harding-login3-bp"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="harding-login3-bp",host="harding-adm",node_name="harding-login3-bp"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="harding-login3-bp",host="harding-adm",node_name="harding-login3-bp"} 3 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="harding-login3-bp",host="harding-adm",node_name="harding-login3-bp"} 0 1745748903000
+
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="paradise0001",host="harding-adm",node_name="paradise0001"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="paradise0001",host="harding-adm",node_name="paradise0001"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="paradise0001",host="harding-adm",node_name="paradise0001"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="paradise0001",host="harding-adm",node_name="paradise0001"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="paradise0001",host="harding-adm",node_name="paradise0001"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="paradise0001",host="harding-adm",node_name="paradise0001"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="paradise0001",host="harding-adm",node_name="paradise0001"} 3 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="paradise0001",host="harding-adm",node_name="paradise0001"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="paradise0001",host="harding-adm",node_name="paradise0001"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="paradise0001",host="harding-adm",node_name="paradise0001"} 240000 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="paradise0001",host="harding-adm",node_name="paradise0001"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="paradise0001",host="harding-adm",node_name="paradise0001"} 144 1745748903000
+
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="paradise0002",host="harding-adm",node_name="paradise0002"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="paradise0002",host="harding-adm",node_name="paradise0002"} 0 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="paradise0002",host="harding-adm",node_name="paradise0002"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="paradise0002",host="harding-adm",node_name="paradise0002"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="paradise0002",host="harding-adm",node_name="paradise0002"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="paradise0002",host="harding-adm",node_name="paradise0002"} 3 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="paradise0002",host="harding-adm",node_name="paradise0002"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="paradise0002",host="harding-adm",node_name="paradise0002"} 144 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="paradise0002",host="harding-adm",node_name="paradise0002"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="paradise0002",host="harding-adm",node_name="paradise0002"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="paradise0002",host="harding-adm",node_name="paradise0002"} 240000 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="paradise0002",host="harding-adm",node_name="paradise0002"} 0 1745748903000
+
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="paradise0004",host="harding-adm",node_name="paradise0004"} 144 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="paradise0004",host="harding-adm",node_name="paradise0004"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="paradise0004",host="harding-adm",node_name="paradise0004"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="paradise0004",host="harding-adm",node_name="paradise0004"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="paradise0004",host="harding-adm",node_name="paradise0004"} 0 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="paradise0004",host="harding-adm",node_name="paradise0004"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="paradise0004",host="harding-adm",node_name="paradise0004"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="paradise0004",host="harding-adm",node_name="paradise0004"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="paradise0004",host="harding-adm",node_name="paradise0004"} 240000 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="paradise0004",host="harding-adm",node_name="paradise0004"} 3 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="paradise0004",host="harding-adm",node_name="paradise0004"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="paradise0004",host="harding-adm",node_name="paradise0004"} 0 1745748903000
+
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s4b0n0",host="harding-adm",node_name="parrypeak0001"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s4b0n0",host="harding-adm",node_name="parrypeak0001"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s4b0n0",host="harding-adm",node_name="parrypeak0001"} 192 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s4b0n0",host="harding-adm",node_name="parrypeak0001"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s4b0n0",host="harding-adm",node_name="parrypeak0001"} 192 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s4b0n0",host="harding-adm",node_name="parrypeak0001"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s4b0n0",host="harding-adm",node_name="parrypeak0001"} 0 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s4b0n0",host="harding-adm",node_name="parrypeak0001"} 449127 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s4b0n0",host="harding-adm",node_name="parrypeak0001"} 1 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s4b0n0",host="harding-adm",node_name="parrypeak0001"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s4b0n0",host="harding-adm",node_name="parrypeak0001"} 1 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s4b0n0",host="harding-adm",node_name="parrypeak0001"} 0 1745748903000
+
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c4s4b1n0",host="harding-adm",node_name="parrypeak0002"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c4s4b1n0",host="harding-adm",node_name="parrypeak0002"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c4s4b1n0",host="harding-adm",node_name="parrypeak0002"} 1 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c4s4b1n0",host="harding-adm",node_name="parrypeak0002"} 1 1745748903000
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c4s4b1n0",host="harding-adm",node_name="parrypeak0002"} 0 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c4s4b1n0",host="harding-adm",node_name="parrypeak0002"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c4s4b1n0",host="harding-adm",node_name="parrypeak0002"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c4s4b1n0",host="harding-adm",node_name="parrypeak0002"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c4s4b1n0",host="harding-adm",node_name="parrypeak0002"} 192 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c4s4b1n0",host="harding-adm",node_name="parrypeak0002"} 449127 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c4s4b1n0",host="harding-adm",node_name="parrypeak0002"} 192 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c4s4b1n0",host="harding-adm",node_name="parrypeak0002"} 0 1745748903000
+
+# TYPE slurm_node_energy untyped
+slurm_node_energy{geo_name="x1000c7s4b0n0",host="harding-adm",node_name="ss10grizzlypeak0001"} 0 1745748903000
+# TYPE slurm_node_cpu_alloc untyped
+slurm_node_cpu_alloc{geo_name="x1000c7s4b0n0",host="harding-adm",node_name="ss10grizzlypeak0001"} 0 1745748903000
+# TYPE slurm_node_maxpwr untyped
+slurm_node_maxpwr{geo_name="x1000c7s4b0n0",host="harding-adm",node_name="ss10grizzlypeak0001"} 0 1745748903000
+# TYPE slurm_node_jobs_running untyped
+slurm_node_jobs_running{geo_name="x1000c7s4b0n0",host="harding-adm",node_name="ss10grizzlypeak0001"} 0 1745748903000
+# TYPE slurm_node_state untyped
+slurm_node_state{geo_name="x1000c7s4b0n0",host="harding-adm",node_name="ss10grizzlypeak0001"} 9 1745748903000
+# TYPE slurm_node_jobs_assigned untyped
+slurm_node_jobs_assigned{geo_name="x1000c7s4b0n0",host="harding-adm",node_name="ss10grizzlypeak0001"} 0 1745748903000
+# TYPE slurm_node_cpu_total untyped
+slurm_node_cpu_total{geo_name="x1000c7s4b0n0",host="harding-adm",node_name="ss10grizzlypeak0001"} 128 1745748903000
+# TYPE slurm_node_mem_total untyped
+slurm_node_mem_total{geo_name="x1000c7s4b0n0",host="harding-adm",node_name="ss10grizzlypeak0001"} 240000 1745748903000
+# TYPE slurm_node_minpwr untyped
+slurm_node_minpwr{geo_name="x1000c7s4b0n0",host="harding-adm",node_name="ss10grizzlypeak0001"} 0 1745748903000
+# TYPE slurm_node_avepwr untyped
+slurm_node_avepwr{geo_name="x1000c7s4b0n0",host="harding-adm",node_name="ss10grizzlypeak0001"} 0 1745748903000
+# TYPE slurm_node_mem_alloc untyped
+slurm_node_mem_alloc{geo_name="x1000c7s4b0n0",host="harding-adm",node_name="ss10grizzlypeak0001"} 0 1745748903000
+# TYPE slurm_node_instpwr untyped
+slurm_node_instpwr{geo_name="x1000c7s4b0n0",host="harding-adm",node_name="ss10grizzlypeak0001"} 0 1745748903000
+

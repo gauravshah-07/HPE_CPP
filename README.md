@@ -38,5 +38,15 @@ This repository is for code sharing and progress updates related to the HPE Care
   2. Developed a multi-threaded Kafka producer to read from configurable YAML files and continuously publish synthetic metrics to respective topics.
   3. Implemented a Kafka consumer receives both structured JSON and Prometheus-style messages from topics like PDU and Telemetry.
 
+## Week 7
 
+* **Completed:**
 
+  1. Fixed and improved Prometheus and JSON data converters by handling edge cases, ensuring accurate label and value extraction, and improving YAML output formatting.
+  2. Designed and implemented a unified Command-Line Interface (CLI) for the entire simulation pipeline using Python Fire, including support for:
+     * Converting JSON/Prometheus files to YAML topic configurations.
+     * Generating one-sample synthetic data from a topic.
+     * Running Kafka producers interactively with topic-based configuration.
+     * Configuring broker connection dynamically.
+  3. Integrated a user-friendly interactive menu system to guide users through CLI operations, supporting both beginners and advanced users.
+  
