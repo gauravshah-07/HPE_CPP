@@ -2,7 +2,7 @@
 
 This repository contains a modular CLI tool and supporting code for simulating and producing telemetry data over Kafka. It supports Prometheus and JSON formats, converts them into a simulator-ready YAML format, and streams synthetic data to Kafka topics using a multithreaded producer.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Week7/
@@ -24,7 +24,7 @@ Week7/
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -45,11 +45,10 @@ Ensure you have a Kafka broker running at `admin:9092` (or update the config in 
 
 ---
 
-## 🚀 CLI Usage
+##  CLI Usage
 
-You can launch the CLI in two ways:
 
-### 🔹 Option 1: Interactive Menu (Recommended)
+### Interactive Menu 
 
 Run:
 
@@ -95,14 +94,14 @@ Each option lets you perform actions step-by-step:
 
 ---
 
-## ❗ Error Handling
+##  Error Handling
 
 - Handles invalid YAML, missing files, permission errors, junk data, malformed metrics.
 - Cache mechanism avoids regenerating YAML if config is unchanged.
 
 ---
 
-## 📚 Dependencies
+##  Dependencies
 
 Key packages used:
 
