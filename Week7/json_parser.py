@@ -62,5 +62,4 @@ def convert_file(input_file, output_file, metric_name, topic):
             raise ValueError("Cannot infer metric name: MessageId missing in input.")
 
     yaml_output = convert_to_yaml(data, metric_name, topic)
-    print(yaml_output)
     return yaml_output
