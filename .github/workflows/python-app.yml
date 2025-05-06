@@ -24,16 +24,16 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        # Navigate to the 'week7' folder
-        cd week7
+        # Navigate to the 'Week7' folder
+        cd Week7
         pip install flake8 pytest
-        # Install dependencies from the requirements.txt inside the 'week7' folder if it exists
+        # Install dependencies from the requirements.txt inside the 'Week7' folder if it exists
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: Lint with flake8
       run: |
-        # Navigate to the 'week7' folder to run flake8
-        cd week7
+        # Navigate to the 'Week7' folder to run flake8
+        cd Week7
         # stop the build if there are Python syntax errors or undefined names
         flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
         # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
@@ -41,12 +41,12 @@ jobs:
 
     - name: Test with pytest
       run: |
-        # Navigate to the 'week7' folder to run pytest
-        cd week7
+        # Navigate to the 'Week7' folder to run pytest
+        cd Week7
         pytest
 
     - name: Run cli.py
       run: |
-        # Navigate to the 'week7' folder and run the cli.py application
-        cd week7
+        # Navigate to the 'Week7' folder and run the cli.py application
+        cd Week7
         python cli.py
