@@ -10,6 +10,7 @@ from config_manager.prom_parser import PrometheusParser
 from config_manager.json_parser import convert_file
 
 CONFIG_DIR = "YAML"
+KAFKA_CONFIG_PATH = "kafka_config.yaml"
 CACHE = ConfigManager()
 
 class TopicManager:
@@ -73,9 +74,22 @@ class SampleSimulator:
 class KafkaProducerCLI:
     def __init__(self):
         self.bootstrap_server = "admin:9092"
+        self.load_config()
+
+    def load_config(self):
+        if os.path.exists(KAFKA_CONFIG_PATH):
+            with open(KAFKA_CONFIG_PATH, "r") as f:
+                data = yaml.safe_load(f)
+                if data and "bootstrap_server" in data:
+                    self.bootstrap_server = data["bootstrap_server"]
+
+    def save_config(self):
+        with open(KAFKA_CONFIG_PATH, "w") as f:
+            yaml.dump({"bootstrap_server": self.bootstrap_server}, f)
 
     def configure(self, server: str):
         self.bootstrap_server = server
+        self.save_config()
         print(f"Kafka server set to: {self.bootstrap_server}")
 
     def run(self, *topics):
