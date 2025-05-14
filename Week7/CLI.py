@@ -1,13 +1,16 @@
-import fire
+# After adding option for showing list of all topics
+
+import argparse
 import os
 import yaml
-from config_manager import ConfigManager, validate_yaml, simulator_engine
-from simulator import MetricSimulator
-from Producer import main as producer_main
-from prom_parser import PrometheusParser
-from json_parser import convert_file
+from config_manager.config_manager import ConfigManager, validate_yaml, simulator_engine
+from simulator.simulator import MetricSimulator
+from producer.Producer import main as producer_main
+from config_manager.prom_parser import PrometheusParser
+from config_manager.json_parser import convert_file
 
 CONFIG_DIR = "YAML"
+KAFKA_CONFIG_PATH = "kafka_config.yaml"
 CACHE = ConfigManager()
 
 class TopicManager:
@@ -71,9 +74,22 @@ class SampleSimulator:
 class KafkaProducerCLI:
     def __init__(self):
         self.bootstrap_server = "admin:9092"
+        self.load_config()
+
+    def load_config(self):
+        if os.path.exists(KAFKA_CONFIG_PATH):
+            with open(KAFKA_CONFIG_PATH, "r") as f:
+                data = yaml.safe_load(f)
+                if data and "bootstrap_server" in data:
+                    self.bootstrap_server = data["bootstrap_server"]
+
+    def save_config(self):
+        with open(KAFKA_CONFIG_PATH, "w") as f:
+            yaml.dump({"bootstrap_server": self.bootstrap_server}, f)
 
     def configure(self, server: str):
         self.bootstrap_server = server
+        self.save_config()
         print(f"Kafka server set to: {self.bootstrap_server}")
 
     def run(self, *topics):
@@ -96,7 +112,21 @@ class CLIApp:
         self.topic = TopicManager()
         self.simulate = SampleSimulator()
         self.producer = KafkaProducerCLI()
-
+    def list_topics(self):
+        try:
+            if not os.path.exists(CONFIG_DIR):
+                print("No topics found. 'YAML/' directory does not exist.")
+                return
+            topics = [f[:-5] for f in os.listdir(CONFIG_DIR) if f.endswith('.yaml')]
+            if topics:
+                print("\nAvailable Topics:")
+                print("-----------------")
+                for topic in topics:
+                    print(f"- {topic}")
+            else:
+                print("No topic YAML files found in the YAML/ directory.")
+        except Exception as e:
+            print(f"Error: {e}")
     def menu(self):
         while True:
             print("\nCLI MENU")
@@ -105,7 +135,8 @@ class CLIApp:
             print("2. Create YAML from JSON")
             print("3. Generate one sample data from topic")
             print("4. Kafka Producer Menu")
-            print("5. Exit")
+            print("5. List all available topics")
+            print("6. Exit ")
             choice = input("Enter choice: ").strip()
 
             if choice == "1":
@@ -120,6 +151,7 @@ class CLIApp:
                 self.topic.json2yaml(input_file, topic, metric)
 
             elif choice == "3":
+                self.list_topics()
                 topic = input("Enter topic name: ")
                 self.simulate.generate(topic)
 
@@ -127,6 +159,9 @@ class CLIApp:
                 self.producer_menu()
 
             elif choice == "5":
+                self.list_topics()
+                
+            elif choice == "6":
                 print("Exiting.")
                 break
             else:
@@ -146,6 +181,7 @@ class CLIApp:
                 self.producer.configure(server)
 
             elif subchoice == "2":
+                self.list_topics()
                 topics = input("Enter topic names (comma-separated): ").split(",")
                 topics = [t.strip() for t in topics]
                 self.producer.run(*topics)
@@ -155,9 +191,53 @@ class CLIApp:
             else:
                 print("Invalid choice")
 
-if __name__ == "__main__":
+def main():
     app = CLIApp()
-    if len(os.sys.argv) == 1:
-        app.menu()
+    parser = argparse.ArgumentParser(description="CLI for managing topics, simulating metrics, and producing to Kafka.")
+    subparsers = parser.add_subparsers(dest='command')
+
+    # Prometheus to YAML
+    prom_parser = subparsers.add_parser('prom2yaml', help='Convert Prometheus file to YAML')
+    prom_parser.add_argument('input_file', help='Path to Prometheus input file')
+    prom_parser.add_argument('topic', help='Topic name')
+    prom_parser.add_argument('--output', help='Optional output YAML filename')
+
+    # JSON to YAML
+    json_parser = subparsers.add_parser('json2yaml', help='Convert JSON file to YAML')
+    json_parser.add_argument('input_file', help='Path to JSON input file')
+    json_parser.add_argument('topic', help='Topic name')
+    json_parser.add_argument('--metric_name', help='Metric name (optional)')
+    json_parser.add_argument('--output', help='Optional output YAML filename')
+
+    # Generate sample metric
+    generate_parser = subparsers.add_parser('generate', help='Generate sample metric')
+    generate_parser.add_argument('topic_name', help='Topic name')
+
+    # Kafka producer config
+    config_parser = subparsers.add_parser('configure', help='Configure Kafka broker')
+    config_parser.add_argument('server', help='Kafka bootstrap server')
+
+    # Kafka producer run
+    run_parser = subparsers.add_parser('run', help='Run Kafka producer')
+    run_parser.add_argument('topics', nargs='+', help='Topic names to produce to')
+    list_parser = subparsers.add_parser('list-topics', help='List all available topics')
+
+    args = parser.parse_args()
+
+    if args.command == 'prom2yaml':
+        app.topic.prom2yaml(args.input_file, args.topic, args.output)
+    elif args.command == 'json2yaml':
+        app.topic.json2yaml(args.input_file, args.topic, args.metric_name, args.output)
+    elif args.command == 'generate':
+        app.simulate.generate(args.topic_name)
+    elif args.command == 'configure':
+        app.producer.configure(args.server)
+    elif args.command == 'run':
+        app.producer.run(*args.topics)
+    elif args.command == 'list-topics':
+        app.list_topics()
     else:
-        fire.Fire(app)
+        app.menu()
+
+if __name__ == "__main__":
+    main()
