@@ -1,0 +1,324 @@
+filetype: prom
+topic: slurm
+slurm_summary_stopped_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_mixed_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_requeue_fed_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_resv_del_hold_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_pending_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_stage_out_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_unknown_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_completed_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_maint_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_out_of_memory_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_node_fail_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_power_down_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_revoked_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_invalid_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (1.0, 1.0)
+  timestamp: <current_timestamp>
+slurm_summary_failing_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_allocated_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_cancelled_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_perfctrs_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_requeue_hold_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_total_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_total_partitions:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (16.0, 16.0)
+  timestamp: <current_timestamp>
+slurm_summary_draining_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_idle_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_running_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_signaling_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_special_exit_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_deadline_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_completing_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_service_status:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (1.0, 1.0)
+  timestamp: <current_timestamp>
+slurm_summary_completing_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_down_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (41.0, 41.0)
+  timestamp: <current_timestamp>
+slurm_summary_failed_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_drained_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (51.0, 51.0)
+  timestamp: <current_timestamp>
+slurm_summary_total_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (93.0, 93.0)
+  timestamp: <current_timestamp>
+slurm_summary_reserved_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_suspended_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_resizing_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_configuring_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_fail_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_planned_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_power_up_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_future_nodes:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_timeout_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_requeued_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_boot_fail_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>
+slurm_summary_preempted_jobs:
+  labels:
+  - host:
+    - harding-adm
+  value:
+  - (0.0, 0.0)
+  timestamp: <current_timestamp>

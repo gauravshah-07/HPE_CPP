@@ -1,0 +1,9 @@
+filetype: prom/json
+topic: <value>
+metric_name:
+  labels:
+    - label-1: [value1, value2, ...]
+    - label-2: [value1, value2, ...]
+  value:
+    - (lowerlimit, upperlimit)
+  timestamp: <current_timestamp>

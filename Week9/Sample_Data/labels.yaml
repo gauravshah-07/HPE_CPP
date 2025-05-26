@@ -1,0 +1,8 @@
+geo_name:
+  - 'testgeo001, testgeo002, testgeo003'
+  - 'testgeo004, testgeo005'
+host:
+  - 'testhost001'
+node_name:
+  - 'testnode001, testnode002'
+  - 'testnode003, testnode004, testnode005'
