@@ -40,7 +40,7 @@ This repository is for code sharing and progress updates related to the HPE Care
 
 ## Week 7
 
-* **Completed:**
+- **Completed:**
 
   1. Fixed and improved Prometheus and JSON data converters by handling edge cases, ensuring accurate label and value extraction, and improving YAML output formatting.
   2. Designed and implemented a unified Command-Line Interface (CLI) for the entire simulation pipeline using Python Fire, including support for:
@@ -54,21 +54,21 @@ This repository is for code sharing and progress updates related to the HPE Care
   
 ## Week 8
 
-* **Completed:**
+- **Completed:**
 
-1. CLI was improved to display the list of topics
-2. CLI file was made to use Argparse instead of Fire
-3. Caching of topics was integrated
-4. Added the feature of saving the user configuration
-5. Feature of creating topic in kafka based on input was added.
+  1. CLI was improved to display the list of topics
+  2. CLI file was made to use Argparse instead of Fire
+  3. Caching of topics was integrated
+  4. Added the feature of saving the user configuration
+  5. Feature of creating topic in kafka based on input was added.
 
 
 
  ## Week 9
 
-* **Completed:**
+- **Completed:**
 
-1. Label values extraction is made optional. User can give custom label values.
-2. Range of values for each topic can be taken from user input (optional).
-3. Custom nodelist can be taken as input from the user in text file format.
-4. CLI was modified.   
+  1. Label values extraction is made optional. User can give custom label values.
+  2. Range of values for each topic can be taken from user input (optional).
+  3. Custom nodelist can be taken as input from the user in text file format.
+  4. CLI was modified.   
