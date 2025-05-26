@@ -49,4 +49,26 @@ This repository is for code sharing and progress updates related to the HPE Care
      * Running Kafka producers interactively with topic-based configuration.
      * Configuring broker connection dynamically.
   3. Integrated a user-friendly interactive menu system to guide users through CLI operations, supporting both beginners and advanced users.
+ 
+
   
+## Week 8
+
+* **Completed:**
+
+1. CLI was improved to display the list of topics
+2. CLI file was made to use Argparse instead of Fire
+3. Caching of topics was integrated
+4. Added the feature of saving the user configuration
+5. Feature of creating topic in kafka based on input was added.
+
+
+
+ ## Week 8
+
+* **Completed:**
+
+1. Label values extraction is made optional. User can give custom label values.
+2. Range of values for each topic can be taken from user input (optional).
+3. Custom nodelist can be taken as input from the user in text file format.
+4. CLI was modified.   
